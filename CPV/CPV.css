@@ -1,0 +1,83 @@
+#card{
+    padding-right: 50px;
+    padding-top: 20px;
+}
+#card1{
+    padding-top: 50px;
+    padding-right: 75px;
+    padding-left: 100px;
+}
+#about{
+    padding-top: 50px;
+}
+#AI{
+    padding-top: 50px;
+}
+body{
+    background-image: url(https://img.freepik.com/free-vector/white-background-with-blue-tech-hexagon_1017-19366.jpg?size=626&ext=jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+head{
+    font-variant-position: initial;
+    font-style: normal;
+    font-display: color: #333d79ff;
+}
+#welcome{
+    padding-bottom: 100px;
+}
+#nav{
+    padding-bottom: 80px;
+}
+#bar{
+    padding-left: 600px ;
+}
+#items{
+    padding-right: 50px;
+    font-size: 20px;
+}
+#well{
+    padding-left: 30px;
+}
+#para{
+    padding-left: 10px;
+    padding-top: 30px;
+}
+#shake{
+    padding-left: 400px;
+}
+#one1,#three1{
+    padding-left: 50px;
+}
+#one2,#two1,#three2{
+    padding-left: 50px;
+    background-color: rgb(233,220,201);
+}
+#one,#two,#three{
+    padding-bottom: 50px;
+}
+#services{
+    padding-bottom: 100px;
+}
+#two2{
+    padding-right: 50px;
+}
+#end{
+    background-color: rgb(56, 56, 204);
+}
+#lines{
+    color: whitesmoke;
+    font-size: 15px;
+}
+#coloumn1{
+    padding-left: 50px;
+    padding-right: 300px;
+}
+#coloumn2{
+    padding-right: 50px;
+    padding-left: 600px;
+}
+#about: :target{
+    display: table;
+}

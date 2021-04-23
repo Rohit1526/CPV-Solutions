@@ -1,0 +1,45 @@
+head{
+    font-variant-position: initial;
+    font-style: normal;
+    font-display: color: #333d79ff;
+}
+#nav{
+    padding-bottom: 160px;
+}
+#bar{
+    padding-left: 600px ;
+}
+#items{
+    padding-right: 50px;
+    font-size: 20px;
+}
+body{
+    background-image: url(https://img.freepik.com/free-vector/white-background-with-blue-tech-hexagon_1017-19366.jpg?size=626&ext=jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#points{
+    padding-left: 250px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+#lines{
+   padding-bottom: 10px;
+   color: rgb(9, 112, 153);
+}
+#end{
+    background-color: rgb(56, 56, 204);
+}
+#line{
+    color: whitesmoke;
+    font-size: 15px;
+}
+#coloumn1{
+    padding-left: 50px;
+    padding-right: 300px;
+}
+#coloumn2{
+    padding-right: 50px;
+    padding-left: 600px;
+}
